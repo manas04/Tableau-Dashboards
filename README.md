@@ -7,3 +7,14 @@
   <li><b>Customer Behavior Insights:</b>> Analyzes customer data to improve engagement and retention.</li>
   <li><b>Operational Efficiency:</b>> Monitors key operational metrics for optimizing processes.</li>
 </ul>
+
+<h2>Getting Satrted</h2>
+<p> To use these dashboards:</p>
+<ol>
+<li>Download the desired Tableau workbook (.twbx) files.</li>
+<li>Open with Tableau Desktop or Tableau Public.</li>
+<li>Explore the visualizations and customize filters as needed.</li>
+</ol>
+
+<h2> Contributing </h2>
+<p>Contributions are welcome! To contribute, please fork the repository, make your changes, and submit a pull request.</p>
